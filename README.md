@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viicthor
-- 👀 I’m interested in Java, Pyton and C#
+- 👀 I’m interested in Java, Python and C#
 - 🌱 I’m currently learning POO
 - 💞️ I’m looking to collaborate on software development and artificial intelligence
 - 📫 How to reach me victorgaltern@gmail.com or victorgonzaleznavarro18@gmail.com
