@@ -1,4 +1,4 @@
-🚀 Victor González Navarro
+🚀 Victor Gonzalez Navarro
 
 Robotics • Embedded Systems • Aerospace Systems • AI • IoT • ROS (Robot Operating System)
 I build intelligent systems that integrate hardware, software, and real-time architectures.
